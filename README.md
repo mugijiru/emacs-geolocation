@@ -1,6 +1,11 @@
 emacs-geolocation
 ====================
 
+[![Build Status](https://travis-ci.org/mugijiru/emacs-geolocation.svg?branch=master)](https://travis-ci.org/mugijiru/emacs-geolocation)
+
+Overview
+--------------------
+
 Get geolocation
 
 Usage
