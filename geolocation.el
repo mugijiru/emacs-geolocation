@@ -1,5 +1,7 @@
 ;;; geolocation.el --- Get geolocation
 
+
+
 ;; Author: Mugijiru <mugijiru.dev@gmail.com>
 ;; URL: https://github.com/mugijiru/emacs-geolocation
 ;; Version: 0.0.1
@@ -111,3 +113,5 @@
         )))
 
 (provide 'geolocation)
+
+;;; geolocation.el ends here’

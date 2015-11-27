@@ -1,6 +1,8 @@
 (source melpa)
 (source gnu)
 
+(package-file "geolocation.el")
+
 (depends-on "request")
 
 (development
